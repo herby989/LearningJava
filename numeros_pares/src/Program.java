@@ -26,6 +26,7 @@ public class Program {
 		}
 
 		System.out.printf("%n%nQUANTIDADE DE PARES = %d", numeroPares);
+
 		scan.close();
 
 	}
